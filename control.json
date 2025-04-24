@@ -1,8 +1,7 @@
 {
   "locked": true,
-  "message": "!! RANSOMWARE WARNING !!",
-  "price": "Rp. 5.000.000",
-  "password": "kim123"
+  "password": "kim123",
+  "background": "",
+  "message": "",
+  "price": ""
 }
-
-console.log("Password dari GitHub:", remotePassword);
